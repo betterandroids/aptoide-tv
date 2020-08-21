@@ -3,31 +3,17 @@
 
 ---
 
-<p><a href="https://aapks.com/apk/aptoide/" title="Aptoide"><img src="https://i1.wp.com/img.aapks.com/imgs/a/4/a/a4a27be4bb6f17cd3fbb159dd7344146_icon.png?h=48" alt="Aptoide"></a></p>
-<p><a href="https://aapks.com/apk/aptoide/" title="Aptoide">Aptoide</a></p>
-<p><a href="http://cm.aptoide.pt">cm.aptoide.pt</a>.</p>
-<p><a href="https://aapks.com/apk/elemental-tv/" title="Elemental.TV for Aptoide TV"><img src="https://i1.wp.com/img.aapks.com/imgs/4/5/6/456d6fa4d3052cff6c52bd0f8024052d_icon.png?h=48" alt="Elemental.TV for Aptoide TV"></a></p>
-<p><a href="https://aapks.com/apk/elemental-tv/" title="Elemental.TV for Aptoide TV">Elemental.TV for Aptoide TV</a></p>
-<p>com.mediahub_bg.android.ottplayer.elemental.</p>
-<p><a href="https://aapks.com/apk/aptoide-backup-apps/" title="Aptoide Backup Apps"><img src="https://i1.wp.com/img.aapks.com/imgs/e/9/e/e9e017c951ab8215f956aad9b227fb0c_icon.png?h=48" alt="Aptoide Backup Apps"></a></p>
-<p><a href="https://aapks.com/apk/aptoide-backup-apps/" title="Aptoide Backup Apps">Aptoide Backup Apps</a></p>
-<p>pt.aptoide.backupapps.</p>
-<p><a href="https://aapks.com/apk/aptoide-uploader/" title="Aptoide Uploader"><img src="https://i1.wp.com/img.aapks.com/imgs/7/8/f/78ff6dd364077161c4c5a6c821380794_icon.png?h=48" alt="Aptoide Uploader"></a></p>
-<p><a href="https://aapks.com/apk/aptoide-uploader/" title="Aptoide Uploader">Aptoide Uploader</a></p>
-<p>pt.caixamagica.aptoide.uploader.</p>
-<p><a href="https://aapks.com/apk/softonicappstore/" title="Aptoide AppStore"><img src="https://i1.wp.com/img.aapks.com/imgs/9/7/1/9711bc92b8109355d9524ec843ed1712_icon.png?h=48" alt="Aptoide AppStore"></a></p>
-<p><a href="https://aapks.com/apk/softonicappstore/" title="Aptoide AppStore">Aptoide AppStore</a></p>
-<p>com.aptoide.partners.softonicstore.</p>
-<p><a href="https://aapks.com/apk/aptoide-repos/" title="Aptoide Repos"><img src="https://i1.wp.com/img.aapks.com/imgs/f/8/0/f80aba595b21e44f3cf11e1a8d286118_icon.png?h=48" alt="Aptoide Repos"></a></p>
-<p><a href="https://aapks.com/apk/aptoide-repos/" title="Aptoide Repos">Aptoide Repos</a></p>
-<p>es.paraisoft.android.aptoiderepos.</p>
-<p><a href="https://aapks.com/apk/aptoide-lite/" title="Aptoide Lite"><img src="https://i1.wp.com/img.aapks.com/imgs/6/8/8/6881384b5628b5fc3c78683118609c7f_icon.png?h=48" alt="Aptoide Lite"></a></p>
-<p><a href="https://aapks.com/apk/aptoide-lite/" title="Aptoide Lite">Aptoide Lite</a></p>
-<p>cm.aptoide.lite.</p>
-<p><a href="https://aapks.com/apk/aptoidetv-anker-tv/" title="Aptoide TV"><img src="https://i1.wp.com/img.aapks.com/imgs/9/3/a/93a05e3261c6a1609c90bf6ab0d53860_icon.png?h=48" alt="Aptoide TV"></a></p>
-<p><a href="https://aapks.com/apk/aptoidetv-anker-tv/" title="Aptoide TV">Aptoide TV</a></p>
-<p>cm.aptoidetv.pt.anker_tv.</p>
-<p><a href="https://aapks.com/apk/aptoidetv-konka-apps/" title="Aptoide TV"><img src="https://i1.wp.com/img.aapks.com/imgs/9/3/a/93a05e3261c6a1609c90bf6ab0d53860_icon.png?h=48" alt="Aptoide TV"></a></p>
-<p><a href="https://aapks.com/apk/aptoidetv-konka-apps/" title="Aptoide TV">Aptoide TV</a></p>
-<p>cm.aptoidetv.pt.konka_apps.</p>
+<h2 id="download-apk-editor-pro-1.12.0-apk"><a href="https://aapks.com/apk/apk-editor-pro/">Download APK</a> Editor Pro 1.12.0 APK</h2>
+<p>APK Editor is a powerful tool which can edit/hack apk files to do lots of things for fun.<br>
+It helps us to do things such as chain localization, background image replacement, layout re-architecting, and even advertisement eliminating, permission removing, etc… What it can do depends on how you use it. But to utilize it well, we need just a little bit professional skills. Don’t hesitate, a few examples are given in the help page.<br>
+Here is the master version, in comparison with free variation, here’s some differences:<br>
+<img src="https://i2.wp.com/img.aapks.com/imgs/c/d/3/cd3f26c046ab4b2885fb14ecefd5707b_screen.png?h=320" alt="APK Editor Pro App Screen 1" title="APK Editor Pro App Screen 1"><img src="https://i2.wp.com/img.aapks.com/imgs/d/6/1/d61750d111b965f245bf7c2597cbc1a4_screen.png?h=320" alt="APK Editor Pro App Screen 2" title="APK Editor Pro App Screen 2"><img src="https://i2.wp.com/img.aapks.com/imgs/6/4/0/640f8c7fd60169b61078db6436836416_screen.png?h=320" alt="APK Editor Pro App Screen 3" title="APK Editor Pro App Screen 3"><img src="https://i2.wp.com/img.aapks.com/imgs/e/f/5/ef5ea519f6bbbf89d1166e146967e9a6_screen.png?h=320" alt="APK Editor Pro App Screen 4" title="APK Editor Pro App Screen 4"><img src="https://i2.wp.com/img.aapks.com/imgs/a/a/b/aab67fc9e2b61fe57740923d96672eca_screen.png?h=320" alt="APK Editor Pro App Screen 5" title="APK Editor Pro App Screen 5"><img src="https://i2.wp.com/img.aapks.com/imgs/8/2/9/829d747f06da8744dc49a5424383f8d6_screen.png?h=320" alt="APK Editor Pro App Screen 6" title="APK Editor Pro App Screen 6"><img src="https://i2.wp.com/img.aapks.com/imgs/c/1/8/c186c9085acfa91a49d5feb44a32389e_screen.png?h=320" alt="APK Editor Pro App Screen 7" title="APK Editor Pro App Screen 7"><img src="https://i2.wp.com/img.aapks.com/imgs/5/f/2/5f2547c2ea3f6e7a2ca8d0dc172b6ec3_screen.png?h=320" alt="APK Editor Pro App Screen 8" title="APK Editor Pro App Screen 8"></p>
+<ol>
+<li>
+<p>Well like everyone else said this app use to be great. However since they remove the option to edit user data of apps. This app is now useless to me. Luckily I have a backup of the previous apps I can just go back. I find myself disabling the play store app from running more and more. And would like to get rid of the services. I know its possible but need PS to work correctly.</p>
+</li>
+<li>
+<p>mod For fellow pissed up buyers, I know how to make build work. Download APK Editor Pro 1.9.10 and back up that version. Then delete it. Download APK Editor Pro 1.8.2, open it for a few seconds and close it. Go to your backup and install it (don’t delete the other version, just install tbe new one over it). You’ll find the links online (I strongly advise against usind Aptoide). You’re welcome. Edit. You can alternatively use Lucky Patcher to apply a custom patch which makes the build opinion work.</p>
+</li>
+</ol>
 
